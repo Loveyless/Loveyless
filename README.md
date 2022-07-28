@@ -14,8 +14,8 @@
 
 **Skills:**
 
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/Vue.js.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node.js.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vue.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/node.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg"></code>
