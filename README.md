@@ -5,9 +5,7 @@
 - I’m currently learning goland
 - How to reach me: [loveylesslin@gmail.com](mailto:loveylesslin@gmail.com)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loveyless&count_private=true&show_icons=true" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveyless&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <span></span>
 
