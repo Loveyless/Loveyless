@@ -19,5 +19,6 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vuedotjs.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg"></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg"></code>
