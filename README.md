@@ -4,7 +4,7 @@
 - I’m a student
 - I’m currently learning golang
 - How to reach me: [loveylesslin@gmail.com](mailto:loveylesslin@gmail.com)
-- I took notes : <a src='https://loveyless.github.io/note/'>here</a>
+- I took notes : https://loveyless.github.io/note/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveyless&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
