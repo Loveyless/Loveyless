@@ -10,7 +10,7 @@
 
 <span></span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveyless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img src='https://cdn.jsdelivr.net/gh/Loveyless/img-clouding/img/10017a7345c2700d08e11c092b1c162.jpg' style='width:170px;padding-left:10px;'></img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveyless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img src='https://cdn.jsdelivr.net/gh/Loveyless/img-clouding/img/10017a7345c2700d08e11c092b1c162.jpg' style='width:165px;border-radius:5px;'></img>
 
 <span></span>
 
