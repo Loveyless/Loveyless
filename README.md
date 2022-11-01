@@ -6,11 +6,11 @@
 - How to reach me: [Loveyless@126.com](mailto:Loveyless@126.com)
 - I took notes : https://loveyless.github.io/note/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveyless&count_private=true&show_icons=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveyless&count_private=true&show_icons=true)
 
 <span></span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveyless&layout=compact)]<img src='https://cdn.jsdelivr.net/gh/Loveyless/img-clouding/img/10017a7345c2700d08e11c092b1c162.jpg' style='width:166px;'></img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveyless&layout=compact)<img src='https://cdn.jsdelivr.net/gh/Loveyless/img-clouding/img/10017a7345c2700d08e11c092b1c162.jpg' style='width:166px;'></img>
 
 <span></span>
 
