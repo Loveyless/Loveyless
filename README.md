@@ -1,7 +1,7 @@
 ### Hi there
 
 
-- I’m a student
+- I’m a web developer
 - I’m currently learning golang
 - How to reach me: [Loveyless@126.com](mailto:Loveyless@126.com)
 - I took notes : https://loveyless.github.io/note/
