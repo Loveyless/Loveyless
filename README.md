@@ -2,7 +2,7 @@
 
 
 - I’m a web developer
-- I’m currently learning golang
+- I’m currently learning golang (Given up)
 - How to reach me: [Loveyless@126.com](mailto:Loveyless@126.com)
 - I took notes : https://loveyless.github.io/note/
 
@@ -21,5 +21,6 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vuedotjs.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg"></code>
+<code>Given up</code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg"></code>
