@@ -4,7 +4,7 @@
 - I’m a front-end web developer
 - I’m currently learning golang (Given up)
 - How to reach me: [Loveyless@126.com](mailto:Loveyless@126.com)
-- I took notes : https://loveyless.github.io/note/
+- I took notes : https://loveyless.github.io
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveyless&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
