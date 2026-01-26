@@ -1,28 +1,35 @@
-### Hi there
-
+### Hi there, I'm less.
 
 - I’m a front-end web developer
-- I’m currently learning golang (Given up)
 - How to reach me: [Loveyless@126.com](mailto:Loveyless@126.com)
-- I took notes : https://loveyless.github.io
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveyless&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveyless&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<span></span>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveyless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img src='https://cdn.jsdelivr.net/gh/Loveyless/img-clouding/img/10017a7345c2700d08e11c092b1c162.jpg' style='width:166px;'></img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveyless&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://cdn.jsdelivr.net/gh/Loveyless/img-clouding/img/10017a7345c2700d08e11c092b1c162.jpg" width="166" alt="banner" style="vertical-align: middle;" />
 
-<span></span>
+<br/>
 
 **Skills:**
 
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vuedotjs.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/claude.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/openaigym.svg"></code>
+<p align="left">
+  <img height="32" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin:4px;" />
+  <img height="32" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="margin:4px;" />
+  <img height="32" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="margin:4px;" />
+  <img height="32" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="margin:4px;" />
+  <img height="32" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="margin:4px;" />
+  <img height="32" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="margin:4px;" />
+  <img height="32" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" style="margin:4px;" />
+  <img height="32" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="margin:4px;" />
+  <img height="32" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="margin:4px;" />
+  <img height="32" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="margin:4px;" />
+  <img height="32" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="margin:4px;" />
+  <img height="32" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="margin:4px;" />
+</p>
+
+**AI:**
+
+![Codex](https://img.shields.io/badge/Codex-OpenAI-111111?style=flat-square&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-AI-111111?style=flat-square&logo=claude)
