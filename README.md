@@ -31,5 +31,5 @@
 
 **AI:**
 
+![Claude](https://img.shields.io/badge/Claude-Anthropic-111111?style=flat-square&logo=claude)
 ![Codex](https://img.shields.io/badge/Codex-OpenAI-111111?style=flat-square&logo=openai)
-![Claude](https://img.shields.io/badge/Claude-AI-111111?style=flat-square&logo=claude)
