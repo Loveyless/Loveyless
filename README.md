@@ -3,7 +3,7 @@
 - I’m a front-end web developer
 - How to reach me: [Loveyless@126.com](mailto:Loveyless@126.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loveyless)](https://github.com/Loveyless/github-readme-stats)
 
 <br/>
 
