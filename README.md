@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loveyless&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Loveyless&layout=compact&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://cdn.jsdelivr.net/gh/Loveyless/img-clouding/img/10017a7345c2700d08e11c092b1c162.jpg" width="166" alt="banner" style="vertical-align: middle;" />
 
 <br/>
