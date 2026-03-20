@@ -15,12 +15,12 @@
 <p align="left">
   <img height="32" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin:4px;" />
   <img height="32" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="margin:4px;" />
-  <img height="32" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="margin:4px;" />
   <img height="32" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="margin:4px;" />
+  <img height="32" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="margin:4px;" />
   <img height="32" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="margin:4px;" />
   <img height="32" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="margin:4px;" />
   <img height="32" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" style="margin:4px;" />
-  <img height="32" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="margin:4px;" />
+  <img height="32" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="margin:4px;" />
   <img height="32" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="margin:4px;" />
   <img height="32" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="margin:4px;" />
   <img height="32" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="margin:4px;" />
