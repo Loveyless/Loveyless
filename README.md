@@ -1,8 +1,8 @@
 ### Hi there, I'm less.
 
-- I’m a front-end web developer
+- I’m a web developer
 - How to reach me: [Loveyless@126.com](mailto:Loveyless@126.com)
-
+- I've been learning English recently and my little business there https://english.cc.cd
 <br/>
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Loveyless&layout=compact&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
