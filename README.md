@@ -2,7 +2,7 @@
 
 - I’m a web developer
 - How to reach me: [Loveyless@126.com](mailto:Loveyless@126.com)
-- I've been learning English recently and my little free learn english website here <a href="https://english.cc.cd" target="_blank">English leaner</a>
+- I've been learning English recently and my little free learn english website here <a href="https://english.cc.cd" target="_blank">English learn</a>
 <br/>
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Loveyless&layout=compact&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
